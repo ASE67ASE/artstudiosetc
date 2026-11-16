@@ -1,6 +1,6 @@
 // Listing data for artstudiosetc.com
 window.LISTING_DATA = {
- "updated": "2026-11-13T16:30:00-05:00",
+ "updated": "2026-11-15T16:36:00-05:00",
  "contact": {
   "email": "",
   "phone": "347-243-4156"
@@ -994,15 +994,6 @@ window.LISTING_DATA = {
    "lat": 40.6971323,
    "lon": -73.9692836,
    "suites": [
-    {
-     "suite": "1",
-     "type": "Art Studio with Windows",
-     "sqft": 250,
-     "rent": 1100,
-     "maintenance": null,
-     "total": 1100,
-     "availability": "NOW"
-    },
     {
      "suite": "5",
      "type": "Art Studio with Skylight",
