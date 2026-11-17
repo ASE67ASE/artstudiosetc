@@ -1,6 +1,6 @@
 // Listing data for artstudiosetc.com
 window.LISTING_DATA = {
- "updated": "2026-11-15T16:36:00-05:00",
+ "updated": "2026-11-16T16:36:00-05:00",
  "contact": {
   "email": "",
   "phone": "347-243-4156"
@@ -44,17 +44,7 @@ window.LISTING_DATA = {
   {
    "name": "310 Meserole St, Brooklyn NY",
    "photos": "",
-   "suites": [
-    {
-     "suite": "204",
-     "type": "",
-     "sqft": 860,
-     "rent": 3000,
-     "maintenance": 65,
-     "total": 3065,
-     "availability": "12/1"
-    }
-   ],
+   "suites": [],
    "subtitle": "",
    "address": "310 Meserole St, Brooklyn NY",
    "links": [],
